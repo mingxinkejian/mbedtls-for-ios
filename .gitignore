@@ -1,0 +1,13 @@
+.DS_Store
+build
+*.pbxuser
+*.perspectivev3
+*.mode1v3
+*.lock
+.svn
+UserInterfaceState.xcuserstate
+xcuserdata
+*.class
+*.swp
+.pyc
+
